@@ -47,6 +47,10 @@ body {
   color: white;
 }
 
+.page-footer {
+  background-color: #e8e8e8;
+}
+
 /* NAVIGATION-BAR */
 
 .navigation-bar {
